@@ -58,3 +58,19 @@ pre.highlight code,
   border: 3px solid #fff;
   border-radius:100%;
 }
+
+.skills-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.skills-icon{
+  border: 1px solid #fff;
+  width: 30px;
+  border: 50%;
+  img{
+    width: 100%;
+  }
+}
