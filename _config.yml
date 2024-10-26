@@ -6,16 +6,16 @@ baseurl: ''
 profilepic: '/images/pch.jpg'
 bkimage: '/images/bkh.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: '320e57d55c.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: thomas@zuehlke.cloud
+  name: 'Hassan Kotb'
+  email: hassankotb410@gmail.com
   mastodon: tzuehlke@mstdn.social
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
+  github_username:  Hasnkotb
+  linkedin_username:  hassan-m-kotb
   meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
