@@ -9,12 +9,12 @@
   #img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
   desc: The Banks Customer Segmentation project involves surveying bank usersو to measure their satisfaction levels across various attributes.The project aims to assess overall satisfaction, determine the likelihood of customers recommending their banks to others
 
-  name: Market Basket Analysis “Products association” 
+- name: Market Basket Analysis “Products association” 
   url: https://drive.google.com/file/d/1YnXdrd9SMJPAAEadFDaV_6W2yjaOD1IG/view?usp=sharing
   #img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
   desc: It’s a technique used to discover relationships between products purchased together, It helps understand customer buying patterns.
 
-  name: Usability Test - UX Analysis Of Digital Products 
+- name: Usability Test - UX Analysis Of Digital Products 
   url: https://drive.google.com/file/d/1MkAz4rYkj2V9j-TtYqdigBS9ELXDDhyZ/view?usp=sharing
   #img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
   desc: It’s a technique used to discover relationships between products purchased together, It helps understand customer buying patterns.
