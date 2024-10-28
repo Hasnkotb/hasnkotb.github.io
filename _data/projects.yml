@@ -1,9 +1,10 @@
 # projects section data
-- name: A repo with workflow, that downloads the current Pay-As-You-Go prices from Azure once a month and saves them in ~40MB files
-  url: https://www.google.com/
-  img: https://drive.google.com/file/d/1_1jWHMQZv998d2HGOYp29_y-N1UZQqfp/view?usp=sharing
+- name: RFM - Analysis & Customer Segmentation
+  url: https://drive.google.com/file/d/1iuXG-QqwmN1KHx_Uq5NuelN67p2gHOSL/view?usp=sharing
+  #img: x
+  desc: Applying RFM analysis to segment customers based on their past purchase into seven segments. which help to encourage new customers to make their next purchase. Implement promotions for customers who are at risk of churning to retain them
 
 - name: Azure Automation Scripts
   url: https://www.google.com/
-  img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
+  #img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
   desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
