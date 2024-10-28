@@ -1,7 +1,7 @@
 # projects section data
 - name: A repo with workflow, that downloads the current Pay-As-You-Go prices from Azure once a month and saves them in ~40MB files
   url: https://www.google.com/
-  img: https://blog.zuehlke.cloud/wp-content/uploads/2024/04/AzureCostExportPAYG-Overview-945x293.png
+  img: https://drive.google.com/file/d/1_1jWHMQZv998d2HGOYp29_y-N1UZQqfp/view?usp=sharing
 
 - name: Azure Automation Scripts
   url: https://www.google.com/
