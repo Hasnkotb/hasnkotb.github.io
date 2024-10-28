@@ -3,8 +3,8 @@
   url: https://drive.google.com/file/d/1iuXG-QqwmN1KHx_Uq5NuelN67p2gHOSL/view?usp=sharing
   #img: x
   desc: Applying RFM analysis to segment customers based on their past purchase into seven segments. which help to encourage new customers to make their next purchase. Implement promotions for customers who are at risk of churning to retain them
-
-- name: Azure Automation Scripts
-  url: https://www.google.com/
+ 
+- name: Customer Satisfaction - Bank
+  url: https://drive.google.com/file/d/13U5ptw4_-TUqAO49maVLSMWazKAZnFIP/view?usp=sharing
   #img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+  desc: The Banks Customer Segmentation project involves surveying bank usersو to measure their satisfaction levels across various attributes.The project aims to assess overall satisfaction, determine the likelihood of customers recommending their banks to others
