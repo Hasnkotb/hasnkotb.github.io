@@ -6,7 +6,7 @@
  
 - name: Customer Satisfaction - Bank
   url: https://drive.google.com/file/d/13U5ptw4_-TUqAO49maVLSMWazKAZnFIP/view?usp=sharing
-  #img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
+  img: https://upload.wikimedia.org/wikipedia/commons/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg
   desc: The Banks Customer Segmentation project involves surveying bank usersو to measure their satisfaction levels across various attributes.The project aims to assess overall satisfaction, determine the likelihood of customers recommending their banks to others
 
 - name: Market Basket Analysis “Products association” 
